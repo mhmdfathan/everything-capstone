@@ -15,6 +15,10 @@ export default function Home() {
             title: 'One Drive Dokumen Capstone',
             url: 'https://undipmail-my.sharepoint.com/:f:/g/personal/ibnufadhil12_students_undip_ac_id/EvKtMN1qWT1NhLduSBRIhucB_3M0ZVzFs5IQ8tph4-Rtpg?e=8qutWY',
         },
+        {
+            title: 'C400',
+            url: 'https://undipmail-my.sharepoint.com/:w:/r/personal/ibnufadhil12_students_undip_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7BE097667C-9076-4ADC-825B-E6FA404392F7%7D&file=C400.S1T24K04.Rev00.docx&action=default&mobileredirect=true'
+        }
     ];
 
     return (

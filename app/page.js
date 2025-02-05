@@ -18,6 +18,10 @@ export default function Home() {
         {
             title: 'C400',
             url: 'https://undipmail-my.sharepoint.com/:w:/r/personal/ibnufadhil12_students_undip_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7BE097667C-9076-4ADC-825B-E6FA404392F7%7D&file=C400.S1T24K04.Rev00.docx&action=default&mobileredirect=true'
+        },
+        {
+          title: 'C500',
+            url: 'https://undipmail-my.sharepoint.com/:w:/r/personal/ibnufadhil12_students_undip_ac_id/_layouts/15/doc2.aspx?sourcedoc=%7B6fe40500-16b0-45a1-a303-2f9eecc46bc1%7D&action=default'
         }
     ];
 
